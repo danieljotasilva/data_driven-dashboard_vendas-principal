@@ -1,4 +1,13 @@
-# 📊 Data-Driven Sales Dashboard — Power BI
+# 📊 Data-Driven Sales Dashboard - Power BI
+
+<p align="center">
+  <a href="#english">🇺🇸 English</a> •
+  <a href="#portugues">🇧🇷 Português</a>
+</p>
+
+---
+
+## English
 
 > **End-to-end sales analytics dashboard** built as the capstone project of a comprehensive Power BI training — from data ingestion to advanced storytelling.
 
@@ -8,13 +17,13 @@
 
 ---
 
-## 🧭 Project Overview
+### 🧭 Project Overview
 
 This project was developed throughout a **Power BI professional training program** (beginner to advanced), covering the full analytics workflow: data extraction, transformation, modeling, and visual storytelling. The result is a complete, interactive sales dashboard designed for real-world business decision-making.
 
 ---
 
-## 📁 Project Structure
+### 📁 Project Structure
 
 ```
 📦 data_driven-dashboard_vendas-principal
@@ -29,31 +38,31 @@ This project was developed throughout a **Power BI professional training program
 
 ---
 
-## ⚙️ Skills & Technologies Applied
+### ⚙️ Skills & Technologies Applied
 
-### 🔄 Power Query — ETL & Data Preparation
+#### 🔄 Power Query — ETL & Data Preparation
 - Data extraction from Excel and CSV sources
 - Column transformations, data type normalization, and null handling
 - Query folding and performance-optimized loading steps
 
-### 🗂️ Data Modeling
+#### 🗂️ Data Modeling
 - Star schema architecture (fact + dimension tables)
 - Relationship management (active/inactive, cardinality)
 - Calculated columns for business logic enrichment
 
-### 📐 DAX — Measures & Calculations
+#### 📐 DAX — Measures & Calculations
 - Core KPIs: Total Sales, Gross Margin, Average Ticket
 - Time intelligence: YTD, MoM growth, same-period comparisons
 - Context-aware measures using `CALCULATE`, `FILTER`, and `ALL`
 
-### 🎨 Data Visualization & Storytelling
+#### 🎨 Data Visualization & Storytelling
 - Interactive dashboard with slicers, drill-through, and cross-filtering
 - Custom background design and branded visual layout
 - UX-oriented page structure for intuitive navigation
 
 ---
 
-## 📸 Dashboard Preview
+### 📸 Dashboard Preview
 
 > *Add a screenshot of your dashboard here — drag and drop an image into the GitHub editor or use the syntax below:*
 
@@ -63,7 +72,7 @@ This project was developed throughout a **Power BI professional training program
 
 ---
 
-## 🚀 How to Use
+### 🚀 How to Use
 
 1. Clone or download this repository
 2. Open `dashboard_vendas.pbix` in **Power BI Desktop**
@@ -73,7 +82,7 @@ This project was developed throughout a **Power BI professional training program
 
 ---
 
-## 🎓 Training Program
+### 🎓 Training Program
 
 This project is the final deliverable of the **Power BI Professional Training** by [Nexos Educação](https://nexoseducacao.com) (🧙🏽‍♂️Comunidade Data Driven), covering:
 
@@ -86,16 +95,16 @@ This project is the final deliverable of the **Power BI Professional Training** 
 
 ---
 
-## 👤 Author
+### 👤 Author
 
-**Daniel Silva**
+**Daniel João da Silva**<br>
 [![GitHub](https://img.shields.io/badge/GitHub-danieljotasilva-181717?style=flat&logo=github)](https://github.com/danieljotasilva)
 
 ---
 
 ---
 
-# 📊 Dashboard de Vendas Data-Driven — Power BI
+## Português
 
 > **Dashboard de análise de vendas completo**, desenvolvido como projeto principal de uma formação profissional em Power BI — do básico ao avançado.
 
@@ -105,13 +114,13 @@ This project is the final deliverable of the **Power BI Professional Training** 
 
 ---
 
-## 🧭 Visão Geral do Projeto
+### 🧭 Visão Geral do Projeto
 
 Este projeto foi desenvolvido ao longo de uma **formação profissional em Power BI** (do básico ao avançado), cobrindo todo o fluxo de analytics: extração, transformação, modelagem de dados e storytelling visual. O resultado é um dashboard de vendas completo e interativo, pensado para apoiar decisões de negócio no mundo real.
 
 ---
 
-## 📁 Estrutura do Projeto
+### 📁 Estrutura do Projeto
 
 ```
 📦 data_driven-dashboard_vendas-principal
@@ -126,31 +135,31 @@ Este projeto foi desenvolvido ao longo de uma **formação profissional em Power
 
 ---
 
-## ⚙️ Habilidades e Tecnologias Aplicadas
+### ⚙️ Habilidades e Tecnologias Aplicadas
 
-### 🔄 Power Query — ETL e Preparação de Dados
+#### 🔄 Power Query — ETL e Preparação de Dados
 - Extração de dados de fontes Excel e CSV
 - Transformações de colunas, normalização de tipos e tratamento de nulos
 - Etapas de carregamento otimizadas com query folding
 
-### 🗂️ Modelagem de Dados
+#### 🗂️ Modelagem de Dados
 - Arquitetura star schema (tabelas fato + dimensão)
 - Gerenciamento de relacionamentos (ativos/inativos, cardinalidade)
 - Colunas calculadas para enriquecimento de regras de negócio
 
-### 📐 DAX — Medidas e Cálculos
+#### 📐 DAX — Medidas e Cálculos
 - KPIs principais: Faturamento Total, Margem Bruta, Ticket Médio
 - Inteligência de tempo: YTD, crescimento MoM, comparações com períodos anteriores
 - Medidas sensíveis ao contexto com `CALCULATE`, `FILTER` e `ALL`
 
-### 🎨 Visualização de Dados e Storytelling
+#### 🎨 Visualização de Dados e Storytelling
 - Dashboard interativo com segmentações, drill-through e filtragem cruzada
 - Design de fundo personalizado e layout visual com identidade
 - Estrutura de páginas orientada à UX para navegação intuitiva
 
 ---
 
-## 📸 Preview do Dashboard
+### 📸 Preview do Dashboard
 
 > *Adicione uma captura de tela do seu dashboard aqui — arraste e solte uma imagem no editor do GitHub ou use a sintaxe abaixo:*
 
@@ -160,7 +169,7 @@ Este projeto foi desenvolvido ao longo de uma **formação profissional em Power
 
 ---
 
-## 🚀 Como Usar
+### 🚀 Como Usar
 
 1. Clone ou baixe este repositório
 2. Abra o arquivo `dashboard_vendas.pbix` no **Power BI Desktop**
@@ -170,7 +179,7 @@ Este projeto foi desenvolvido ao longo de uma **formação profissional em Power
 
 ---
 
-## 🎓 Formação
+### 🎓 Formação
 
 Este projeto é o entregável principal da **Formação em Power BI** da [Nexos Educação](https://nexoseducacao.com) (🧙🏽‍♂️Comunidade Data Driven), cobrindo:
 
@@ -183,7 +192,7 @@ Este projeto é o entregável principal da **Formação em Power BI** da [Nexos 
 
 ---
 
-## 👤 Autor
+### 👤 Autor
 
-**Daniel Silva**
+**Daniel João da Silva**<br>
 [![GitHub](https://img.shields.io/badge/GitHub-danieljotasilva-181717?style=flat&logo=github)](https://github.com/danieljotasilva)
