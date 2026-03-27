@@ -3,7 +3,7 @@
 > **End-to-end sales analytics dashboard** built as the capstone project of a comprehensive Power BI training — from data ingestion to advanced storytelling.
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-DAX%20%7C%20M-blue?style=for-the-badge)
 
 ---
@@ -100,7 +100,7 @@ This project is the final deliverable of the **Power BI Professional Training** 
 > **Dashboard de análise de vendas completo**, desenvolvido como projeto principal de uma formação profissional em Power BI — do básico ao avançado.
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Em%20Andamento-yellow?style=for-the-badge)
 ![Linguagem](https://img.shields.io/badge/Linguagem-DAX%20%7C%20M-blue?style=for-the-badge)
 
 ---
